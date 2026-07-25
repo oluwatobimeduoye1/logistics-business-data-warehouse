@@ -1,9 +1,4 @@
 # Sankofa Freight Networks — CSV to PostgreSQL: Building a Scalable Logistics Data Warehouse
-
-> **A Data Engineering Case Study**
-> Specialization: Logistics & Supply Chain
-> Accredited by the American Council of Training and Development
-
 ---
 
 ## Overview
